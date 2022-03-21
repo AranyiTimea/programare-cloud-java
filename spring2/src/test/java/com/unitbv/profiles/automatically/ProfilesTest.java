@@ -22,6 +22,5 @@ public class ProfilesTest {
     @Test
     public void test() {
         assertInstanceOf(DevDataSourceConfig.class, dataSourceConfig);
-
     }
 }
